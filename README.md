@@ -1,7 +1,3 @@
-Certainly! Below is a template for a README file that you can use for a Titanic Survival Prediction Analysis project on GitHub. Feel free to adjust the details according to the specifics of your project.
-
----
-
 # Titanic Survival Prediction Analysis
 
 ## Overview
